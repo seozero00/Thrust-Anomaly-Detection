@@ -1,0 +1,4 @@
+Epoch,Train Loss,Validation Loss
+1,"tensor(0.0102, device='cuda:0')","tensor(0.0409, device='cuda:0')"
+2,"tensor(0.0102, device='cuda:0')","tensor(0.0409, device='cuda:0')"
+3,"tensor(0.0102, device='cuda:0')","tensor(0.0408, device='cuda:0')"
